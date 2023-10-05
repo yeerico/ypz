@@ -1,5 +1,5 @@
 ---
-![DJI_20231004180336_0767_D](/../../Desktop/DJI_20231004180336_0767_D.JPG)title: 你好，世界！
+![DJI_20231004180336_0767_D](/../../Desktop/DJI_20231004180336_0767_D.JPG)title: hellow
 date: 2023-10-01 10:34:00 +0800
 categories: [随笔]
 tags: [生活]
@@ -24,11 +24,11 @@ image:
 
 # My new blog 
 
-### Hi there 👋, I'm RICO!
+### Hi there , I'm RICO!
 
 - 🏫  I study in Shanghai Yangpu Bilingual School it is a big school ,the teachers and classmates are all very friendly. My best subject is English. 
 
-- 💻  I always use C / C++ / Java  / Python / Markdown to write a program,He made me feel accomplished
+- 💻  I always use Python  to write a program,He made me feel accomplished
 
 -   I love photography .For me, photography is not only about recording moments, but also an art, an expression. Every time you press the shutter, you can record life's most precious moments and turn them into eternal memories. I am passionate about capturing the magnificent scenery of nature through different perspectives, such as drones
 
