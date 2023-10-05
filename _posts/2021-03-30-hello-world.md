@@ -4,7 +4,7 @@ date: 2023-10-01 10:34:00 +0800
 categories: [随笔]
 tags: [生活]
 pin: true
-author: yeerico
+
 
 ---
 
@@ -14,7 +14,7 @@ author: yeerico
 
 # My new blog 
 
-### Hi there 👋, I'm RICO!
+### Hi there , I'm RICO!
 
 - 🏫  I study in Shanghai Yangpu Bilingual School it is a big school ,the teachers and classmates are all very friendly. My best subject is English. 
 
